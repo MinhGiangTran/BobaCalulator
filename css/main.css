@@ -24,5 +24,10 @@ a:hover {
 }
 
 .card:hover {
-    transform: scale(1.25, 1.25);
+    transform: scale(1.05, 1.25);
+}
+
+.card img {
+    width: 500px;
+    height: 500px;
 }
