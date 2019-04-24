@@ -10,7 +10,8 @@ a:hover {
 
 
 #header {
-    padding-top: 20px;
+    padding-top: 60px;
+    font-family: fantasy;
 }
 
 #header h1 {
@@ -18,7 +19,8 @@ a:hover {
 }
 
 #headersweet {
-    font-family: cursive
+    font-family: cursive;
+    font-size: 50rem;
 }
 
 #front-main {
