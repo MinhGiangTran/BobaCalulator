@@ -10,7 +10,7 @@ a:hover {
 
 
 #header {
-    padding-top: 60px;
+    padding-top: 45px;
     font-family: fantasy;
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 #front-main {
-    padding-top: 5rem;
+    padding-top: 0.01rem;
 }
 
 .card {
@@ -35,4 +35,8 @@ a:hover {
 
 .card:hover {
     transform: scale(1.05, 1.25);
+}
+h2 {
+    font-family: fantasy;
+    font-size: 4rem;
 }
